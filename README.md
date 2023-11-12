@@ -16,10 +16,10 @@ Extension Manifest V3 knowledge for Chrome or WebExtension for Firefox.
 
 ##Installation 
 1. Clone the repository
-  ![image](https://github.com/AdityaDonkada/Project-Dopamine-Google-Extension/assets/143298302/ddd9db0c-c9d5-4cef-af80-bcc40288a672)
+  git clone https://github.com/your-username/project-dopamine.git
 
 2. Navigate the extension folder:
-  ![image](https://github.com/AdityaDonkada/Project-Dopamine-Google-Extension/assets/143298302/a6cbfabe-2a21-44b3-a327-5d0deeb9a9f5)
+   cd project-dopamine
 
 4. Follow browser-specific instructions to load the extension locally:
    For Chrome: Open chrome://extensions/, enable "Developer mode," and click "Load unpacked."
