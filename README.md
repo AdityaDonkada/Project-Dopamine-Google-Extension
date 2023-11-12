@@ -14,7 +14,7 @@ Customizable settings for user preferences
 Compatible web browser (e.g., Google Chrome, Mozilla Firefox)
 Extension Manifest V3 knowledge for Chrome or WebExtension for Firefox.
 
-##Installation 
+## Installation 
 1. Clone the repository
   git clone https://github.com/your-username/project-dopamine.git
 
