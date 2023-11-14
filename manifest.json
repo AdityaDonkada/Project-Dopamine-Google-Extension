@@ -4,9 +4,9 @@
   "version": "1.0",
   "description": "A Chrome extension that promotes a healthier digital experience by mitigating addictive behaviors.",
   "icons": {
-    "16": "image.png",
-    "48": "image.png",
-    "128": "image.png"
+    "16": "company.png",
+    "48": "company.png",
+    "128": "company.png"
   },
 
   "permissions": ["activeTab", "webNavigation"],
