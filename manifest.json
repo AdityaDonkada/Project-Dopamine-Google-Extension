@@ -9,7 +9,6 @@
     "128": "company.png"
   },
 
-  "permissions": ["activeTab", "webNavigation"],
   "host_permissions": ["https://youtube.com/*"],
   "content_scripts": [
     {
